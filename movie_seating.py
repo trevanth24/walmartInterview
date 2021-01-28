@@ -151,6 +151,7 @@ def main():
     
     # plt.imshow(movie_theater, interpolation='nearest', extent=[-1,1,-10,10],aspect='auto')
     # plt.savefig('movie_seating.png')
+    print(movie_theater)
     
 
 
