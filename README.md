@@ -1,4 +1,4 @@
-# walmartInterview
+# Walmart Interview
 
 Hello welcome to my implementation of the assignment - "Movie Theater Seating Challenge". Below you will find my thoughts on the current implementation of my code, and 
 commented code that will walk through the ideas of this project.
