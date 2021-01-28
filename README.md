@@ -33,3 +33,7 @@ Design and write a seat assignment program to maximize safety and satisfaction
     2. Optimally placing people for maximizing seats.
     3. Large groups may have to sacrifice being in a higher row, be able to place them in a close area.
     4. Groups larger than 20 will be cancelled and not split.
+
+
+Running this program - Lastly, I wanted to give some insight into viewing how to run this project. First step is to download the files into the same folder, and install the required libraries explained above. To edit the inputs, edit the file "test1.txt" with the appropriate input. Then using the Command Line, follow the directories to the folder and run "python movie_seating.py". This will run the program and generate the results in the file called: "results.txt". Lastly, if you want to see the movie theater information in detail, you can uncomment the last three lines to get a deeper understanding of how/where seating is done. 
+
